@@ -14,7 +14,6 @@
 - Cybersecurity student building practical skills through hands-on projects
 - Security Intern performing OSINT investigations using Sherlock, Holehe, and theHarvester
 - Automating security workflows with Python
-
 - Expanding into detection engineering, SIEM platforms, and cloud security
 
 ---
@@ -23,9 +22,6 @@
 
 | Project | Description | Skills |
 |---------|-------------|--------|
-| [OSINT Recon Suite](https://github.com/ZeakMeadows/osint-recon-suite) | Automated digital footprinting framework | OSINT, Python, API Integration |
-| [Threat Intel Dashboard](https://github.com/ZeakMeadows/threat-intel-dashboard) | Web dashboard for IOC visualization | Flask, SQLite, Data Visualization |
-| [SOC Automation Scripts](https://github.com/ZeakMeadows/soc-automation-scripts) | Phishing analysis & IOC enrichment | Automation, Threat Intel APIs |
 | [Secure Task Manager](https://github.com/ZeakMeadows/secure-task-manager) | RBAC task system with audit logging | Access Control, Audit Trails |
 | [Financial Security Calculator](https://github.com/ZeakMeadows/financial-security-calculator) | Secure calculator with input validation | Secure Coding, Defensive Programming |
 | [Inventory Security Tracker](https://github.com/ZeakMeadows/inventory-security-tracker) | Stock tracker with authentication | Authentication, Data Integrity |
