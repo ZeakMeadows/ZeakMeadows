@@ -13,7 +13,7 @@
 
 - Cybersecurity student building practical skills through hands-on projects
 - Cybersecurity Intern performing OSINT investigations using Sherlock, Holehe, and theHarvester
-- Automating security workflows with Python
+- Building OSINT automation tools and threat intelligence dashboards in Python
 - Expanding into detection engineering, SIEM platforms, and cloud security
 
 ---
@@ -22,9 +22,11 @@
 
 | Project | Description | Skills |
 |---------|-------------|--------|
-| [Secure Task Manager](https://github.com/ZeakMeadows/secure-task-manager) | RBAC task system with audit logging | Access Control, Audit Trails |
-| [Financial Security Calculator](https://github.com/ZeakMeadows/financial-security-calculator) | Secure calculator with input validation | Secure Coding, Defensive Programming |
-| [Inventory Security Tracker](https://github.com/ZeakMeadows/inventory-security-tracker) | Stock tracker with authentication | Authentication, Data Integrity |
+| [OSINT Recon Suite](https://github.com/ZeakMeadows/osint-recon-suite) | Automated OSINT reconnaissance framework integrating Sherlock, Holehe, and theHarvester | OSINT, Python, API Integration |
+| [Threat Intel Dashboard](https://github.com/ZeakMeadows/threat-intel-dashboard) | Flask-based web dashboard for tracking and visualizing IOCs | Flask, SQLite, Data Visualization |
+| [Secure Task Manager](https://github.com/ZeakMeadows/secure-task-manager) | Task management system for small businesses | Python, Data Management |
+| [Financial Security Calculator](https://github.com/ZeakMeadows/financial-security-calculator) | Financial calculator for investments and home loans | Python, Math Operations |
+| [Inventory Security Tracker](https://github.com/ZeakMeadows/inventory-security-tracker) | Inventory tracking system for product stock | Python, Data Tracking |
 
 ---
 
