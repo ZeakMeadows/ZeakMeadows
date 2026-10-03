@@ -1,54 +1,41 @@
 # Zeak Meadows
 
-**Cybersecurity Student | Cybersecurity Intern | Malware Analysis | Threat Intelligence**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OSINT](https://img.shields.io/badge/OSINT-0A0A0A?style=for-the-badge)
-![Threat Intel](https://img.shields.io/badge/Threat%20Intel-0A0A0A?style=for-the-badge)
-![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-0A0A0A?style=for-the-badge)
-![Forensics](https://img.shields.io/badge/Forensics-0A0A0A?style=for-the-badge)
-![SOC Automation](https://img.shields.io/badge/SOC%20Automation-0A0A0A?style=for-the-badge)
-
----
+**Aspiring Junior SOC Analyst | Microsoft Sentinel | KQL | Threat Intelligence | Python**
 
 ## About Me
 
-- Cybersecurity student building practical defensive skills through hands-on projects
-- Cybersecurity Intern performing OSINT investigations using Sherlock, Holehe, and theHarvester
-- Building file forensics tools for static malware analysis and IOC extraction
-- Developing threat intelligence dashboards and OSINT automation tools in Python
-- Expanding into detection engineering and malware analysis
-
----
+- Building hands-on SOC and detection skills through a Microsoft Sentinel home lab and Python security tooling
+- Preparing for the Microsoft SC-200 (Security Operations Analyst) certification
+- Operations Manager by day, bringing real-world experience in process, accountability and working under pressure into security work
+- Previously completed a cybersecurity internship focused on OSINT and threat intelligence
+- Currently learning: detection engineering, incident triage, and malware analysis
 
 ## Featured Projects
 
 | Project | Description | Skills |
-|---------|-------------|--------|
-| **[File Forensics Analyzer](https://github.com/ZeakMeadows/file-forensics-analyzer)** | Static malware analysis tool extracting IOCs, calculating entropy, and generating risk scores | Malware Analysis, Python, Forensics |
-| **[OSINT Recon Suite](https://github.com/ZeakMeadows/osint-recon-suite)** | Automated OSINT reconnaissance framework integrating Sherlock, Holehe, and theHarvester | OSINT, Python, API Integration |
-| **[Threat Intel Dashboard](https://github.com/ZeakMeadows/threat-intel-dashboard)** | Flask-based web dashboard for tracking and visualizing IOCs | Flask, SQLite, Data Visualization |
+|---|---|---|
+| **Sentinel SIEM Lab** | Microsoft Sentinel lab with brute-force attack detection rules and a GeoIP attack map | Microsoft Sentinel, KQL, Detection Engineering |
+| **File Forensics Analyzer** | Static analysis tool that extracts IOCs, calculates entropy and generates risk scores | Malware Analysis, Python, Forensics |
+| **OSINT Recon Suite** | Automated reconnaissance framework integrating Sherlock, Holehe and theHarvester | OSINT, Python, API Integration |
+| **Threat Intel Dashboard** | Flask web dashboard for tracking and visualizing IOCs | Flask, SQLite, Data Visualization |
 
----
+## Experience
 
-## Internship Experience
+**Operations Manager**, African Diversity Tours (Oct 2024 – Present)
 
-**Cybersecurity Intern** -- OSINT & Threat Intelligence
-- Conduct digital footprinting investigations using Sherlock, Holehe, and theHarvester
-- Trace online personas and map digital presence across platforms
-- Document findings for threat intelligence reports
-- Building automation tools to streamline repetitive OSINT workflows
-
----
+**Cybersecurity Intern, OSINT & Threat Intelligence** (completed)
+- Ran digital footprinting investigations using Sherlock, Holehe and theHarvester
+- Traced online personas and mapped digital presence across platforms
+- Documented findings for threat intelligence reports
+- Built Python automation to streamline repetitive OSINT workflows
 
 ## Tools & Technologies
 
-**OSINT:** Sherlock | Holehe | theHarvester  
-**Security:** Nmap | Wireshark | Static Analysis | File Forensics  
-**Development:** Python | Flask | SQLite | Git | Linux  
-**Concepts:** MITRE ATT&CK | Threat Intelligence | Digital Forensics | SOC Operations | Malware Analysis
-
----
+- **SIEM / XDR:** Microsoft Sentinel, Defender XDR, KQL
+- **Security:** Nmap, Wireshark, Static Analysis, File Forensics
+- **OSINT:** Sherlock, Holehe, theHarvester
+- **Development:** Python, Flask, SQLite, Git, Linux
+- **Frameworks:** MITRE ATT&CK, Threat Intelligence, Digital Forensics
 
 ## Connect With Me
 
